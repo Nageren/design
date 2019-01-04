@@ -7,7 +7,8 @@
 行为型模式（Behavioral Patterns）
 
 
-##  创建型模式   
+##  创建型模式
+   
 > 2018-7-17
 
 ### 1.工厂模式（Factory Pattern）   
@@ -19,4 +20,14 @@
 ### 4.建造者模式（Builder Pattern）
       
 ### 5.原型模式（Prototype Pattern）
+
+
+## 结构型模式
+
+> 2018-08-08
+
+### 1.适配器模式 (Adapter Pattern)
+
+
+
 
